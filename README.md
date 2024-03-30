@@ -27,14 +27,15 @@
 
 ## Sumber Belajar Membangun App Ini
 
-1. [Flutter.dev](https://flutter.dev)
-2. [Dart.dev](https://dart.dev)
+1. [Flutter-dev](https://flutter.dev)
+2. [Dart-dev](https://dart.dev)
 3. [AZKADEV/LINUX-DEV](https://github.com/azkadev/linux-dev)
 4. [AZKADEV/TERMINAL_FLUTTER](https://github.com/azkadev/terminal_flutter)
 
 ## Tested Development
 
-1. Membangun Applikasi Based Flutter (Linux, Web) Android belum kami coba karena terbatas di koneksi internet yang terbatas + lemot
+1. **Development Flutter**
+   Untuk membangung app flutter kami sudah test 100% bisa, namun jika anda menggunakan android Hanya bisa build LINUX / WEB, Untuk android / apk kami belum test karena terbatas di koneksi internet dan fup
 2. Membangun Bot / Userbot (Tdlib / Mtproto / Telegram Bot Api)
 3. Membuat Server SSH
 4. Membuat Server / Backend / Cli (DART)
@@ -113,7 +114,7 @@ Anda tidak perlu subscribe salah 1 app anda hanya perlu subscribe di applikasi u
     Kami berterimakasih banyak anda bisa membantu kami tanpa mengurangi beban, Anda bisa donasi / sponsor di github kami / salah satu developer 
   4. **Bergabung / Membuat Perusahan Dengan GLOBAL CORPORATION**
     Kami sangat senang anda berencana bergabung dengan kami, selain anda bergabung anda bisa menjual produk / jasa yang kami jual dengan nama anda CONTOH: GLOBAL EDITOR APP Menjadi SLEBEW EDITOR APP, Nama bisa anda rubah sesuka hati dan anda bisa mendapatkan fitur yang kami buat 100%
-  
+
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">
   Global Corporation
