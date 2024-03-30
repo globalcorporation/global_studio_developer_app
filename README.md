@@ -42,6 +42,8 @@
 
 ## Download
 
+Saat ini kami tidak berencana mengsupport low end pc dan kemungkinan besar nanti kami akan berpindah full ke ARM64 Bit mungkin untuk device 32 bit / intel / amd tidak akan bisa
+
 | OS Name        | Arm64 / aarch64                        | Arm 32 Bit | x86_64 / AMD                           |
 |----------------|----------------------------------------|------------|----------------------------------------|
 | Android        | [Download](https://github.com/azkadev) |            |                                        |
@@ -66,16 +68,16 @@ Untuk Platform Mobile Kalian bisa develop app / software dengan mudah karena kam
   Saat ini Kami sedang mempertimbangkan cara agar extension bisa berjalan, jika kami lihat vscode menggunakan node js untuk extension, tapi kami tidak akan menggunakan itu karena bisa memperberat app jika kami memaksa percuma kami membuat app ini, untuk itu kemungkinan nanti extension akan menggunakan json yang di compress menjadi zip
 
 ### Price
- Applikasi ini 100% gratis namun jika kamu perlu akses fitur lebih kamu perlu membuat akun (GLOBAL APP / GLOBAL CORPORATION Dahulu), namun jika anda ingin mencoba anda bisa membuat akun github dahulu lalu buat token lalu masuk dengan token github, Saat ini kami berencana membuat harga
+ Applikasi ini **100% gratis** namun jika kamu perlu akses fitur lebih kamu perlu membuat akun (GLOBAL APP / GLOBAL CORPORATION Dahulu), namun jika anda ingin mencoba anda bisa membuat akun github dahulu lalu buat token lalu masuk dengan token github, Saat ini kami berencana membuat harga
 
- - Regular
- - Premium
- - Ultra
+ - **Regular** 25k
+ - **Premium** 50k
+ - **Ultra** 100k
 
+Anda tidak perlu subscribe salah 1 app anda hanya perlu subscribe di applikasi utama (Global App) sehingga sub app
 
 ## Faqs
  Beberapa pertanyaan Yang mungkin akan di tanya
-
 
 - **Q:** Bagaimana App Ini bisa berjalan di android dan bagaimana cara mengemulasi / menjalankan linux ubuntu?.
 - **A:** App Ini berjalan di android karena kami menggunakan CHROOT LINUX UBUNTU / istilahkan container seperti yang ada di **DOCKER**
