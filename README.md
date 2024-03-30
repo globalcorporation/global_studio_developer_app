@@ -1,24 +1,52 @@
 # Global Code Editor
 
+**Global Code Editor** Adalah sebuah Super Application Cross Platform Yang memungkinkan anda coding / menginstall pogram yang anda butuhkan di device anda dengan shortcut yang kami buat sehingga mempercepat / memudahkan anda dalam melakukan tugas
+
+### Demo / Screenshot
+
+<h3 align="center">
+  Ubuntu (Linux)
+
+  ![](assets/linux/linux_01.png)
+  ![](assets/linux/linux_02.png)
+</h3>
+---
+
+
+<h3 align="center">
+  Lineage Os (Android 14)
+
+![](assets/android/android_01_dark_mode.png)![](assets/android/android_01_light_mode.png)
+![](assets/android/android_02_dark_mode.png)![](assets/android/android_02_light_mode.png)
+
+</h3>
 
 ---
 
-### Demo
 
----
+## Sumber Belajar Membangun App Ini
 
-### Install Library
+1. [Flutter.dev](https://flutter.dev)
+2. [Dart.dev](https://dart.dev)
+3. [AZKADEV/LINUX-DEV](https://github.com/azkadev/linux-dev)
+4. [AZKADEV/TERMINAL_FLUTTER](https://github.com/azkadev/terminal_flutter)
 
-```bash
-dart pub add global_code_editor_app
-```
+## Tested Development
 
-or flutter
+1. Membangun Applikasi Based Flutter (Linux, Web) Android belum kami coba karena terbatas di koneksi internet yang terbatas + lemot
+2. Membangun Bot / Userbot (Tdlib / Mtproto / Telegram Bot Api)
+3. Membuat Server SSH
+4. Membuat Server / Backend / Cli (DART)
+5. Tested Coding Node.Js / Python dll
 
-```bash
-dart pub add global_code_editor_app_flutter
-```
- 
+## Download
+
+| OS Name        | Arm64 / aarch64                        | Arm 32 Bit | x86_64 / AMD                           |
+|----------------|----------------------------------------|------------|----------------------------------------|
+| Android        | [Download](https://github.com/azkadev) |            |                                        |
+| Linux / Ubuntu |                                        |            | [Download](https://github.com/azkadev) |
+| Windows        |                                        |            | [Download](https://github.com/azkadev) |
+
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">
   Global Corporation
