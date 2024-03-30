@@ -113,7 +113,7 @@ Anda tidak perlu subscribe salah 1 app anda hanya perlu subscribe di applikasi u
   3. **Donasi**
     Kami berterimakasih banyak anda bisa membantu kami tanpa mengurangi beban, Anda bisa donasi / sponsor di github kami / salah satu developer 
   4. **Bergabung / Membuat Perusahan Dengan GLOBAL CORPORATION**
-    Kami sangat senang anda berencana bergabung dengan kami, selain anda bergabung anda bisa menjual produk / jasa yang kami jual dengan nama anda CONTOH: GLOBAL EDITOR APP Menjadi SLEBEW EDITOR APP, Nama bisa anda rubah sesuka hati dan anda bisa mendapatkan fitur yang kami buat 100%
+    Kami sangat senang anda berencana bergabung dengan kami, selain anda bergabung anda bisa menjual produk / jasa yang kami jual dengan nama anda CONTOH: **GLOBAL EDITOR APP** Menjadi **SLEBEW EDITOR APP**, Nama bisa anda rubah sesuka hati dan anda bisa mendapatkan fitur yang kami buat 100%
 
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">
