@@ -23,6 +23,7 @@
 
 ---
 
+## Tutorial Cara Pakai
 
 ## Sumber Belajar Membangun App Ini
 
@@ -47,6 +48,70 @@
 | Linux / Ubuntu |                                        |            | [Download](https://github.com/azkadev) |
 | Windows        |                                        |            | [Download](https://github.com/azkadev) |
 
+
+## Fun Fact
+
+Untuk Platform Mobile Kalian bisa develop app / software dengan mudah karena kami menggunakan CHROOT LINUX DISTRO UBUNTU, jadi kalian bisa test software apapun yang ada di ubuntu dengan mudah
+
+## Limit / Batasan Saat ini
+
+1. **Root / Jailbreak** (**MOBILE**)
+  Untuk **Platform Mobile** Kalian Perlu **Root** Dahulu agar bisa menggunakan **app ini**.
+  Jika kalian ada informasi bagaimana cara agar Chroot linux bisa berjalan tanpa root silahkan kabarin kami ya
+
+2. **Fungsi Editor Terbatas**
+  Di karenakan kami sangat baru di bidang app editor saat ini terbatas tidak ada auto syntax / hal hal yang bisa mempercepat koding seperti kalian menulis kode lalu tambah titik lalu muncul pintasan shortcut
+
+3. **Extension**
+  Saat ini Kami sedang mempertimbangkan cara agar extension bisa berjalan, jika kami lihat vscode menggunakan node js untuk extension, tapi kami tidak akan menggunakan itu karena bisa memperberat app jika kami memaksa percuma kami membuat app ini, untuk itu kemungkinan nanti extension akan menggunakan json yang di compress menjadi zip
+
+### Price
+ Applikasi ini 100% gratis namun jika kamu perlu akses fitur lebih kamu perlu membuat akun (GLOBAL APP / GLOBAL CORPORATION Dahulu), namun jika anda ingin mencoba anda bisa membuat akun github dahulu lalu buat token lalu masuk dengan token github, Saat ini kami berencana membuat harga
+
+ - Regular
+ - Premium
+ - Ultra
+
+
+## Faqs
+ Beberapa pertanyaan Yang mungkin akan di tanya
+
+
+- **Q:** Bagaimana App Ini bisa berjalan di android dan bagaimana cara mengemulasi / menjalankan linux ubuntu?.
+- **A:** App Ini berjalan di android karena kami menggunakan CHROOT LINUX UBUNTU / istilahkan container seperti yang ada di **DOCKER**
+
+- **Q:** Apa alasan Kami menggunakan app ini di banding milik orang lain / vs code yang sudah matang
+- **A:** Kami tidak memaksa anda untuk menggunakan app ini, namun nanti kami akan menaruh apapun yang bisa mempercepat coding anda di app ini sehingga nanti anda bisa mengcompare bagaimana rasanya coding dengan mudah di app ini + Applikasi yang kami buat CROSS Platform Nanti kamu bisa coding di manapun
+
+- **Q:** Mungkinkan App ini akan lebih ringan dari vscode?
+- **A:** Mungkin Iya, Vscode berat karena menggunakan framework ELECTRON kami menggunakan Flutter dan flutter nanti akan menggunakan rendering IMPELLER dan sudah menggunakan impeller kemungkinan Applikasi yang kami buat bisa lebih ringan dan cepat
+
+- **Q:** Apa keunggulan code editor ini di banding termux di android?
+- **A** App Kami memiliki banyak keunggulan:
+  - Coding dengan Editor / Tanpa Menulis Code di Terminal
+  - Menggunakan Chroot Linux / Ubuntu
+    Berbeda dengan termux yang mengubah sendiri, kami 100% tidak mengubah ubuntu hal ini memungkingkan anda untuk mempercepat development / mencari bug dengan kata kunci ubuntu di google
+  - Bisa Mengcompile Tdlib / Software Berat
+    Kami sudah mencoba mengcompile hal berat di termux namun selalu gagal, dengan app kami anda bisa mengcompile dengan mudah
+  - Mengkoneksikan SSH / VPS
+    Kami sudah mencoba mengkoneksikan ssh dengan mudah, selain mudah kami juga membuat fitur sftp yang memungkinkan anda mengupload / download file dengan mudah 
+
+- **Q:** Saya sangat tertarik di coding game namun saat ini belum ada editor yang bisa memuaskan keinginan saya, Apakah nanti app ini bisa membuat game dengan mudah?
+- **A:** Untuk itu kami akan mencoba melanjutkan experiment jika flutter sudah merelease IMPELLER, namun jika sudah kami perlu waktu + uang untuk melanjutkan project ini jika anda tertarik anda bisa donasi / membeli salah satu layanan yang kami buat
+
+
+## Cara Mempercepat Project Ini
+  Kami sangat kekurangan dukungan untuk melanjutkan project ini jika anda ingin kami bisa mempercepat / terus melanjutkan project ini agar tidak (**MATI**), Anda bisa menggunakan salah 1 cara
+
+  1. **Subcribe Social Media**
+    Jika anda tidak ada uang kami sarankan anda gunakan hal ini
+  2. **Membeli Layanan / Jasa Developer**
+    Kami sangat senang jika anda ingin membantu kami dengan hal ini
+  3. **Donasi**
+    Kami berterimakasih banyak anda bisa membantu kami tanpa mengurangi beban, Anda bisa donasi / sponsor di github kami / salah satu developer 
+  4. **Bergabung / Membuat Perusahan Dengan GLOBAL CORPORATION**
+    Kami sangat senang anda berencana bergabung dengan kami, selain anda bergabung anda bisa menjual produk / jasa yang kami jual dengan nama anda CONTOH: GLOBAL EDITOR APP Menjadi SLEBEW EDITOR APP, Nama bisa anda rubah sesuka hati dan anda bisa mendapatkan fitur yang kami buat 100%
+  
 <!-- START GLOBAL CORPORATION -->
 <h3 align="center">
   Global Corporation
