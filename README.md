@@ -19,10 +19,13 @@ Kami Tidak merubah design pada app kami sehingga tampilan dan fitur akan sama
 <h3 align="center">
   Mobile Lineage Os (Android 14)
 
-![](assets/android/android_01_dark_mode.png)![](assets/android/android_01_light_mode.png)
-![](assets/android/android_02_dark_mode.png)![](assets/android/android_02_light_mode.png)
-
 </h3>
+
+
+| DARK MODE                                    | LIGHT MODE                                    |
+|----------------------------------------------|-----------------------------------------------|
+| ![](assets/android/android_01_dark_mode.png) | ![](assets/android/android_01_light_mode.png) |
+| ![](assets/android/android_02_dark_mode.png) | ![](assets/android/android_02_light_mode.png) |
 
 
 ---
@@ -49,11 +52,11 @@ Kami Tidak merubah design pada app kami sehingga tampilan dan fitur akan sama
 
 Saat ini kami tidak berencana mengsupport low end pc dan kemungkinan besar nanti kami akan berpindah full ke ARM64 Bit mungkin untuk device 32 bit / intel / amd tidak akan bisa
 
-| OS Name        | Arm64 / aarch64 | Arm 32 Bit | x86_64 / AMD                           |
-|----------------|-----------------|------------|----------------------------------------|
-| Android        |                 |            |                                        |
-| Linux / Ubuntu |                 |            |  |
-| Windows        |                 |            |  |
+| OS Name        | Arm64 / aarch64 | Arm 32 Bit | x86_64 / AMD |
+|----------------|-----------------|------------|--------------|
+| Android        |                 |            |              |
+| Linux / Ubuntu |                 |            |              |
+| Windows        |                 |            |              |
 
 
 ## Fun Fact
