@@ -69,7 +69,7 @@ Untuk Platform Mobile Kalian bisa develop app / software dengan mudah karena kam
   Saat ini Kami sedang mempertimbangkan cara agar extension bisa berjalan, jika kami lihat vscode menggunakan node js untuk extension, tapi kami tidak akan menggunakan itu karena bisa memperberat app jika kami memaksa percuma kami membuat app ini, untuk itu kemungkinan nanti extension akan menggunakan json yang di compress menjadi zip
 
 ### Price
- Applikasi ini **100% gratis** namun jika kamu perlu akses fitur lebih kamu perlu membuat akun (GLOBAL APP / GLOBAL CORPORATION Dahulu), namun jika anda ingin mencoba anda bisa membuat akun github dahulu lalu buat token lalu masuk dengan token github, Saat ini kami berencana membuat harga
+ Applikasi ini **100% gratis** namun jika kamu perlu akses fitur lebih kamu perlu membuat akun (**GLOBAL APP / GLOBAL CORPORATIO**N Dahulu), namun jika anda ingin mencoba **gratis** anda bisa membuat akun **github** dahulu lalu buat token lalu masuk dengan **token github**, **Saat ini kami berencana membuat harga**
 
  - **Regular** 100k / bulan
  - **Premium** 500k / bulan
