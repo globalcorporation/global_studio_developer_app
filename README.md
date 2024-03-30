@@ -70,9 +70,9 @@ Untuk Platform Mobile Kalian bisa develop app / software dengan mudah karena kam
 ### Price
  Applikasi ini **100% gratis** namun jika kamu perlu akses fitur lebih kamu perlu membuat akun (GLOBAL APP / GLOBAL CORPORATION Dahulu), namun jika anda ingin mencoba anda bisa membuat akun github dahulu lalu buat token lalu masuk dengan token github, Saat ini kami berencana membuat harga
 
- - **Regular** 25k
- - **Premium** 50k
- - **Ultra** 100k
+ - **Regular** 100k / bulan
+ - **Premium** 500k / bulan
+ - **Ultra** 1jt / bulan
 
 Anda tidak perlu subscribe salah 1 app anda hanya perlu subscribe di applikasi utama (Global App) sehingga sub app
 
