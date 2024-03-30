@@ -5,21 +5,25 @@
 ### Demo / Screenshot
 
 <h3 align="center">
-  Ubuntu (Linux)
+  Desktop Ubuntu (Linux) / Windows
 
-  ![](assets/linux/linux_01.png)
-  ![](assets/linux/linux_02.png)
+  ![](assets/desktop/desktop_01.png)
+  ![](assets/desktop/desktop_02.png)
 </h3>
+
+Kami Tidak merubah design pada app kami sehingga tampilan dan fitur akan sama
+
 ---
 
 
 <h3 align="center">
-  Lineage Os (Android 14)
+  Mobile Lineage Os (Android 14)
 
 ![](assets/android/android_01_dark_mode.png)![](assets/android/android_01_light_mode.png)
 ![](assets/android/android_02_dark_mode.png)![](assets/android/android_02_light_mode.png)
 
 </h3>
+
 
 ---
 
@@ -36,10 +40,10 @@
 
 1. **Development Flutter**
    Untuk membangung app flutter kami sudah test 100% bisa, namun jika anda menggunakan android Hanya bisa build LINUX / WEB, Untuk android / apk kami belum test karena terbatas di koneksi internet dan fup
-2. Membangun Bot / Userbot (Tdlib / Mtproto / Telegram Bot Api)
-3. Membuat Server SSH
-4. Membuat Server / Backend / Cli (DART)
-5. Tested Coding Node.Js / Python dll
+2. **Membangun Bot / Userbot (Tdlib / Mtproto / Telegram Bot Api)**
+3. **Membuat Server SSH**
+4. **Membuat Server / Backend / Cli (DART)**
+5. **Tested Coding Node.Js / Python dll**
 
 ## Download
 
